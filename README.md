@@ -1,6 +1,6 @@
 # rewrite-pom-maven-plugin
 
-根据maven激活的profile重新pom.xml并重新打包jar文件
+根据maven激活的profile重写pom.xml并重新打包jar文件
 
 ## 用法
 
